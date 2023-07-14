@@ -5,7 +5,7 @@ import Gold from "../../assets/gold.png";
 
 function Search() {
   return (
-    <div className="search">
+    <div name="book" className="search">
       <div className="container">
         <div className="left">
           <h2>최고급 럭셔리 휴가를 떠나고 싶다면?</h2>
